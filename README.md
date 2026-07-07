@@ -1,6 +1,6 @@
 ❤️ Heart Disease Analysis 
 
- A complete Data Analytics & Web Integration project that transforms raw cardiovascular health data into an interactive dashboard for exploring heart disease risk .
+ A complete Data Analytics & Web Integration project that transforms raw health data into an interactive dashboard for exploring heart disease risk .
  
 📌 Table of Contents
 
